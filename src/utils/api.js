@@ -1,4 +1,4 @@
-const axios = require("axios");
+import axios from "axios";
 
 const BASE_URL = "https://youtube138.p.rapidapi.com";
 
